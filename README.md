@@ -1,6 +1,6 @@
-   <h1 👋 Hey, Everyone! @YESUKRISHNA> </h1>
+   <h1> 👋 Hey, Everyone! @YESUKRISHNA </h1>
  
-   <h2 I am a Data Analyst, Programmer, Traveller and small Youtuber> </h2>
+   <h2> I am a Data Analyst, Programmer, Traveller and small Youtuber </h2>
 
    - 👀 I’m interested in Data Analystics, Data Science, Deep Learning, Machine Learning and Artificial Intelligence.
 - 👨🏻‍🎓 I’m currently studying final year in B.Tech, Electronics and Communication Engineering at National Institute of Technology, Rourkela.
