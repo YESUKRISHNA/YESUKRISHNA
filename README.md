@@ -1,6 +1,6 @@
 👋 Hey, Everyone! @YESUKRISHNA
 
-I am a Data Analyst, small Youtuber and Programmer
+   I am a Data Analyst, Programmer, Traveller and small Youtuber
 
 - 👀 I’m interested in Data Analystics, Data Science, Deep Learning, Machine Learning and Artificial Intelligence.
 - 👨🏻‍🎓 I’m currently studying final year in B.Tech, Electronics and Communication Engineering at National Institute of Technology, Rourkela.
