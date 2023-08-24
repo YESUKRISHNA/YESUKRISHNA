@@ -6,6 +6,7 @@ I am a Data Analyst, small Youtuber and Programmer
 - 👨🏻‍🎓 I’m currently studying final year in B.Tech, Electronics and Communication Engineering at National Institute of Technology, Rourkela.
 - 🌱 I’m currently learning Power BI, SQL, Excel, Python and it's libraries Numpy, Pandas, Matplotlib, Seaborn and OpenCV etc. 
 - 💞️ I’m looking to collaborate on Youtube
+- 💬 Ask me about Data Analysis
 - 📫 How to reach me : paidikalayesukrishna@gmail.com
 
 <!---
