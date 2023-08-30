@@ -2,7 +2,7 @@
  
    <h3> I am a Data Analyst, Programmer, Traveller and small Youtuber </h3>
 
-- 👀 I’m interested in Data Analystics, Data Science, Deep Learning, Machine Learning and Artificial Intelligence.
+- 👀 I’m interested in Data Analytics, Data Science, Deep Learning, Machine Learning and Artificial Intelligence.
 - 👨🏻‍🎓 I’m currently studying final year in B.Tech, Electronics and Communication Engineering at National Institute of Technology, Rourkela.
 - 🌱 I’m currently learning Power BI, SQL, Excel, Python and it's libraries Numpy, Pandas, Matplotlib, Seaborn and OpenCV etc. 
 - 💞️ I’m looking to collaborate on Youtube
